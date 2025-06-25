@@ -1,4 +1,4 @@
-# 🛒 Sistema CRUD de Compras y Productos - VIP GYM
+# 🛒 Sistema CRUD de Compras y Productos - SuperMarket
 
 Este proyecto es una aplicación web desarrollada con **Laravel** y **AdminLTE**, diseñada para gestionar categorías, productos, clientes y compras. Además, incluye una interfaz tipo cajero y actualizaciones en tiempo real usando **Socket.IO**.
 
